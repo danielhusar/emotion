@@ -1,5 +1,10 @@
 # emotion-theming
 
+## 10.0.19
+
+- Updated dependencies [c81c0033]:
+  - @emotion/weak-memoize@0.2.4
+
 ## 10.0.18
 
 ### Patch Changes
